@@ -5,6 +5,10 @@ public static class DataSeeder
 {
    public static void Seed(ModelBuilder modelBuilder)
    {
+      var random = new Random();
+      var citiesWithW = new[] { "Warsaw", "Wroclaw", "Gdansk", "Krakow", "Poznan" };
+      var citiesWithoutW = new[] { "Lodz", "Szczecin", "Bydgoszcz", "Lublin", "Katowice" };
+
       // Seed Stores
       var stores = Enumerable.Range(1, 10)
           .Select(i => new Store
@@ -26,7 +30,7 @@ public static class DataSeeder
       {
          Id = i,
          Street = $"Street {i}",
-         City = $"City {i}",
+         City = i % 2 == 0 ? citiesWithW[random.Next(citiesWithW.Length)] : citiesWithoutW[random.Next(citiesWithoutW.Length)],
          PostalCode = $"00-0{i}",
          OrderId = i
       }).ToList();
@@ -36,8 +40,8 @@ public static class DataSeeder
       {
          Id = i,
          ProductCode = $"P{i}",
-         NetPrice = 100 + i,
-         GrossPrice = 120 + i,
+         NetPrice = 130 + i,
+         GrossPrice = 140 + i,
          Quantity = i,
          OrderId = i
       }).ToList();

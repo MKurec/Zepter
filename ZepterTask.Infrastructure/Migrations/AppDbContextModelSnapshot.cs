@@ -54,7 +54,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 1,
-                            City = "City 1",
+                            City = "Szczecin",
                             OrderId = 1,
                             PostalCode = "00-01",
                             Street = "Street 1"
@@ -62,7 +62,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 2,
-                            City = "City 2",
+                            City = "Poznan",
                             OrderId = 2,
                             PostalCode = "00-02",
                             Street = "Street 2"
@@ -70,7 +70,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 3,
-                            City = "City 3",
+                            City = "Katowice",
                             OrderId = 3,
                             PostalCode = "00-03",
                             Street = "Street 3"
@@ -78,7 +78,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 4,
-                            City = "City 4",
+                            City = "Wroclaw",
                             OrderId = 4,
                             PostalCode = "00-04",
                             Street = "Street 4"
@@ -86,7 +86,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 5,
-                            City = "City 5",
+                            City = "Bydgoszcz",
                             OrderId = 5,
                             PostalCode = "00-05",
                             Street = "Street 5"
@@ -94,7 +94,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 6,
-                            City = "City 6",
+                            City = "Gdansk",
                             OrderId = 6,
                             PostalCode = "00-06",
                             Street = "Street 6"
@@ -102,7 +102,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 7,
-                            City = "City 7",
+                            City = "Katowice",
                             OrderId = 7,
                             PostalCode = "00-07",
                             Street = "Street 7"
@@ -110,7 +110,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 8,
-                            City = "City 8",
+                            City = "Krakow",
                             OrderId = 8,
                             PostalCode = "00-08",
                             Street = "Street 8"
@@ -118,7 +118,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 9,
-                            City = "City 9",
+                            City = "Lublin",
                             OrderId = 9,
                             PostalCode = "00-09",
                             Street = "Street 9"
@@ -126,7 +126,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 10,
-                            City = "City 10",
+                            City = "Warsaw",
                             OrderId = 10,
                             PostalCode = "00-010",
                             Street = "Street 10"
@@ -134,7 +134,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 11,
-                            City = "City 11",
+                            City = "Bydgoszcz",
                             OrderId = 11,
                             PostalCode = "00-011",
                             Street = "Street 11"
@@ -142,7 +142,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 12,
-                            City = "City 12",
+                            City = "Gdansk",
                             OrderId = 12,
                             PostalCode = "00-012",
                             Street = "Street 12"
@@ -150,7 +150,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 13,
-                            City = "City 13",
+                            City = "Bydgoszcz",
                             OrderId = 13,
                             PostalCode = "00-013",
                             Street = "Street 13"
@@ -158,7 +158,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 14,
-                            City = "City 14",
+                            City = "Warsaw",
                             OrderId = 14,
                             PostalCode = "00-014",
                             Street = "Street 14"
@@ -166,7 +166,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 15,
-                            City = "City 15",
+                            City = "Lodz",
                             OrderId = 15,
                             PostalCode = "00-015",
                             Street = "Street 15"
@@ -174,7 +174,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 16,
-                            City = "City 16",
+                            City = "Poznan",
                             OrderId = 16,
                             PostalCode = "00-016",
                             Street = "Street 16"
@@ -182,7 +182,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 17,
-                            City = "City 17",
+                            City = "Katowice",
                             OrderId = 17,
                             PostalCode = "00-017",
                             Street = "Street 17"
@@ -190,7 +190,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 18,
-                            City = "City 18",
+                            City = "Krakow",
                             OrderId = 18,
                             PostalCode = "00-018",
                             Street = "Street 18"
@@ -198,7 +198,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 19,
-                            City = "City 19",
+                            City = "Lublin",
                             OrderId = 19,
                             PostalCode = "00-019",
                             Street = "Street 19"
@@ -206,7 +206,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 20,
-                            City = "City 20",
+                            City = "Poznan",
                             OrderId = 20,
                             PostalCode = "00-020",
                             Street = "Street 20"
@@ -214,7 +214,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 21,
-                            City = "City 21",
+                            City = "Szczecin",
                             OrderId = 21,
                             PostalCode = "00-021",
                             Street = "Street 21"
@@ -222,7 +222,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 22,
-                            City = "City 22",
+                            City = "Gdansk",
                             OrderId = 22,
                             PostalCode = "00-022",
                             Street = "Street 22"
@@ -230,7 +230,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 23,
-                            City = "City 23",
+                            City = "Szczecin",
                             OrderId = 23,
                             PostalCode = "00-023",
                             Street = "Street 23"
@@ -238,7 +238,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 24,
-                            City = "City 24",
+                            City = "Gdansk",
                             OrderId = 24,
                             PostalCode = "00-024",
                             Street = "Street 24"
@@ -246,7 +246,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 25,
-                            City = "City 25",
+                            City = "Lublin",
                             OrderId = 25,
                             PostalCode = "00-025",
                             Street = "Street 25"
@@ -254,7 +254,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 26,
-                            City = "City 26",
+                            City = "Wroclaw",
                             OrderId = 26,
                             PostalCode = "00-026",
                             Street = "Street 26"
@@ -262,7 +262,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 27,
-                            City = "City 27",
+                            City = "Lublin",
                             OrderId = 27,
                             PostalCode = "00-027",
                             Street = "Street 27"
@@ -270,7 +270,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 28,
-                            City = "City 28",
+                            City = "Gdansk",
                             OrderId = 28,
                             PostalCode = "00-028",
                             Street = "Street 28"
@@ -278,7 +278,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 29,
-                            City = "City 29",
+                            City = "Lublin",
                             OrderId = 29,
                             PostalCode = "00-029",
                             Street = "Street 29"
@@ -286,7 +286,7 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 30,
-                            City = "City 30",
+                            City = "Gdansk",
                             OrderId = 30,
                             PostalCode = "00-030",
                             Street = "Street 30"
@@ -530,8 +530,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 1,
-                            GrossPrice = 121m,
-                            NetPrice = 101m,
+                            GrossPrice = 141m,
+                            NetPrice = 131m,
                             OrderId = 1,
                             ProductCode = "P1",
                             Quantity = 1
@@ -539,8 +539,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 2,
-                            GrossPrice = 122m,
-                            NetPrice = 102m,
+                            GrossPrice = 142m,
+                            NetPrice = 132m,
                             OrderId = 2,
                             ProductCode = "P2",
                             Quantity = 2
@@ -548,8 +548,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 3,
-                            GrossPrice = 123m,
-                            NetPrice = 103m,
+                            GrossPrice = 143m,
+                            NetPrice = 133m,
                             OrderId = 3,
                             ProductCode = "P3",
                             Quantity = 3
@@ -557,8 +557,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 4,
-                            GrossPrice = 124m,
-                            NetPrice = 104m,
+                            GrossPrice = 144m,
+                            NetPrice = 134m,
                             OrderId = 4,
                             ProductCode = "P4",
                             Quantity = 4
@@ -566,8 +566,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 5,
-                            GrossPrice = 125m,
-                            NetPrice = 105m,
+                            GrossPrice = 145m,
+                            NetPrice = 135m,
                             OrderId = 5,
                             ProductCode = "P5",
                             Quantity = 5
@@ -575,8 +575,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 6,
-                            GrossPrice = 126m,
-                            NetPrice = 106m,
+                            GrossPrice = 146m,
+                            NetPrice = 136m,
                             OrderId = 6,
                             ProductCode = "P6",
                             Quantity = 6
@@ -584,8 +584,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 7,
-                            GrossPrice = 127m,
-                            NetPrice = 107m,
+                            GrossPrice = 147m,
+                            NetPrice = 137m,
                             OrderId = 7,
                             ProductCode = "P7",
                             Quantity = 7
@@ -593,8 +593,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 8,
-                            GrossPrice = 128m,
-                            NetPrice = 108m,
+                            GrossPrice = 148m,
+                            NetPrice = 138m,
                             OrderId = 8,
                             ProductCode = "P8",
                             Quantity = 8
@@ -602,8 +602,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 9,
-                            GrossPrice = 129m,
-                            NetPrice = 109m,
+                            GrossPrice = 149m,
+                            NetPrice = 139m,
                             OrderId = 9,
                             ProductCode = "P9",
                             Quantity = 9
@@ -611,8 +611,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 10,
-                            GrossPrice = 130m,
-                            NetPrice = 110m,
+                            GrossPrice = 150m,
+                            NetPrice = 140m,
                             OrderId = 10,
                             ProductCode = "P10",
                             Quantity = 10
@@ -620,8 +620,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 11,
-                            GrossPrice = 131m,
-                            NetPrice = 111m,
+                            GrossPrice = 151m,
+                            NetPrice = 141m,
                             OrderId = 11,
                             ProductCode = "P11",
                             Quantity = 11
@@ -629,8 +629,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 12,
-                            GrossPrice = 132m,
-                            NetPrice = 112m,
+                            GrossPrice = 152m,
+                            NetPrice = 142m,
                             OrderId = 12,
                             ProductCode = "P12",
                             Quantity = 12
@@ -638,8 +638,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 13,
-                            GrossPrice = 133m,
-                            NetPrice = 113m,
+                            GrossPrice = 153m,
+                            NetPrice = 143m,
                             OrderId = 13,
                             ProductCode = "P13",
                             Quantity = 13
@@ -647,8 +647,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 14,
-                            GrossPrice = 134m,
-                            NetPrice = 114m,
+                            GrossPrice = 154m,
+                            NetPrice = 144m,
                             OrderId = 14,
                             ProductCode = "P14",
                             Quantity = 14
@@ -656,8 +656,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 15,
-                            GrossPrice = 135m,
-                            NetPrice = 115m,
+                            GrossPrice = 155m,
+                            NetPrice = 145m,
                             OrderId = 15,
                             ProductCode = "P15",
                             Quantity = 15
@@ -665,8 +665,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 16,
-                            GrossPrice = 136m,
-                            NetPrice = 116m,
+                            GrossPrice = 156m,
+                            NetPrice = 146m,
                             OrderId = 16,
                             ProductCode = "P16",
                             Quantity = 16
@@ -674,8 +674,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 17,
-                            GrossPrice = 137m,
-                            NetPrice = 117m,
+                            GrossPrice = 157m,
+                            NetPrice = 147m,
                             OrderId = 17,
                             ProductCode = "P17",
                             Quantity = 17
@@ -683,8 +683,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 18,
-                            GrossPrice = 138m,
-                            NetPrice = 118m,
+                            GrossPrice = 158m,
+                            NetPrice = 148m,
                             OrderId = 18,
                             ProductCode = "P18",
                             Quantity = 18
@@ -692,8 +692,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 19,
-                            GrossPrice = 139m,
-                            NetPrice = 119m,
+                            GrossPrice = 159m,
+                            NetPrice = 149m,
                             OrderId = 19,
                             ProductCode = "P19",
                             Quantity = 19
@@ -701,8 +701,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 20,
-                            GrossPrice = 140m,
-                            NetPrice = 120m,
+                            GrossPrice = 160m,
+                            NetPrice = 150m,
                             OrderId = 20,
                             ProductCode = "P20",
                             Quantity = 20
@@ -710,8 +710,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 21,
-                            GrossPrice = 141m,
-                            NetPrice = 121m,
+                            GrossPrice = 161m,
+                            NetPrice = 151m,
                             OrderId = 21,
                             ProductCode = "P21",
                             Quantity = 21
@@ -719,8 +719,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 22,
-                            GrossPrice = 142m,
-                            NetPrice = 122m,
+                            GrossPrice = 162m,
+                            NetPrice = 152m,
                             OrderId = 22,
                             ProductCode = "P22",
                             Quantity = 22
@@ -728,8 +728,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 23,
-                            GrossPrice = 143m,
-                            NetPrice = 123m,
+                            GrossPrice = 163m,
+                            NetPrice = 153m,
                             OrderId = 23,
                             ProductCode = "P23",
                             Quantity = 23
@@ -737,8 +737,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 24,
-                            GrossPrice = 144m,
-                            NetPrice = 124m,
+                            GrossPrice = 164m,
+                            NetPrice = 154m,
                             OrderId = 24,
                             ProductCode = "P24",
                             Quantity = 24
@@ -746,8 +746,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 25,
-                            GrossPrice = 145m,
-                            NetPrice = 125m,
+                            GrossPrice = 165m,
+                            NetPrice = 155m,
                             OrderId = 25,
                             ProductCode = "P25",
                             Quantity = 25
@@ -755,8 +755,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 26,
-                            GrossPrice = 146m,
-                            NetPrice = 126m,
+                            GrossPrice = 166m,
+                            NetPrice = 156m,
                             OrderId = 26,
                             ProductCode = "P26",
                             Quantity = 26
@@ -764,8 +764,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 27,
-                            GrossPrice = 147m,
-                            NetPrice = 127m,
+                            GrossPrice = 167m,
+                            NetPrice = 157m,
                             OrderId = 27,
                             ProductCode = "P27",
                             Quantity = 27
@@ -773,8 +773,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 28,
-                            GrossPrice = 148m,
-                            NetPrice = 128m,
+                            GrossPrice = 168m,
+                            NetPrice = 158m,
                             OrderId = 28,
                             ProductCode = "P28",
                             Quantity = 28
@@ -782,8 +782,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 29,
-                            GrossPrice = 149m,
-                            NetPrice = 129m,
+                            GrossPrice = 169m,
+                            NetPrice = 159m,
                             OrderId = 29,
                             ProductCode = "P29",
                             Quantity = 29
@@ -791,8 +791,8 @@ namespace ZepterTask.Infrastructure.Migrations
                         new
                         {
                             Id = 30,
-                            GrossPrice = 150m,
-                            NetPrice = 130m,
+                            GrossPrice = 170m,
+                            NetPrice = 160m,
                             OrderId = 30,
                             ProductCode = "P30",
                             Quantity = 30

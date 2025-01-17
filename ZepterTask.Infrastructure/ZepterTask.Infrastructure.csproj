@@ -16,4 +16,8 @@
     <ProjectReference Include="..\ZepterTask.Models\ZepterTask.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>
