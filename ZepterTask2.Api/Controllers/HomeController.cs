@@ -34,7 +34,11 @@ namespace ZepterTask2.Api.Controllers
             if (response.IsSuccessStatusCode)
             {
                var content = await response.Content.ReadAsStringAsync();
-               var orders = JsonSerializer.Deserialize<List<OrderSummaryDto>>(content);
+               var options = new JsonSerializerOptions
+               {
+                  PropertyNameCaseInsensitive = true
+               };
+               var orders = JsonSerializer.Deserialize<List<OrderSummaryDto>>(content, options);
                return View(orders);
             }
          }

@@ -30,7 +30,9 @@ public static class DataSeeder
       {
          Id = i,
          Street = $"Street {i}",
-         City = i % 2 == 0 ? citiesWithW[random.Next(citiesWithW.Length)] : citiesWithoutW[random.Next(citiesWithoutW.Length)],
+         City = i % 2 == 0 
+            ? citiesWithW[(i / 2) % citiesWithW.Length]
+            : citiesWithoutW[(i / 2) % citiesWithoutW.Length],
          PostalCode = $"00-0{i}",
          OrderId = i
       }).ToList();
